@@ -1,5 +1,5 @@
 import os
-
+# THIS IS TUI PROGRAM
 os.system("tput setaf 1")
 print("""                     TUI PROGRAM 
       ---------------------------------------""")
